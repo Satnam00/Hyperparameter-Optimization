@@ -1,6 +1,9 @@
 # Hyperparameter-Optimization
 ### Introduction
 
+### Hyperparameter Optimization: This Tutorial Is All You Need
+https://www.youtube.com/watch?v=5nYqK-HaoKY&t=2277s
+
 # Grid Search
 https://www.kaggle.com/satnam007/hyper-parameter-grid-search
 
